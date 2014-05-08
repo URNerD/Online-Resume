@@ -24,7 +24,8 @@ but relatvely easy to follow example of a simple resume.
 
 ## Non-computer Days
 
-1.
+1. Colect a list of your jobs, community involvement, school (especially skills you've
+learned – say a bit of web design), and awards you've earned.
 1. Start with the HTML handout.
 1. Work in small groups to "jigsaw" the code – look for patterns and start
 making sense of it.
@@ -39,3 +40,6 @@ making sense of it.
 and [Philippe Dubost, Web Product Manager](http://www.phildub.com)
 – these two resumes do a wonderful job of pushing the envelope by
 using the Web to create a more engaging resume than would be possible on paper.
+* [Financial Post: 16 of the most creative resumes we’ve ever seen]
+(http://business.financialpost.com/2014/02/01/16-most-creative-resumes-weve-ever-seen/)
+– more examples of cool resumes.
