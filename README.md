@@ -4,6 +4,8 @@ A resume is an essential tool for the job hunter. For web developers it makes se
 to create an online resume – it is a great way to show off your skills and design
 sense and it makes you visible 24/7.
 
+Your final product for this project will be an online resume for yourself.
+
 ## Computer Days
 
 You will probably want to use Chrome for this, it's developer mode is a little
@@ -29,6 +31,8 @@ making sense of it.
 
 ## Resources
 
+* [Resume Format & Style]
+(http://www.rollins.edu/careerservices/resumesandcoverletters/format.html) – a guide for creating resumes for recent college graduates.
 * [A Case for Responsive Résumés]
 (http://alistapart.com/article/a-case-for-responsive-resumes)
 * [Simone Fortunini - Online Marketing Manager](http://www.simonefortunini.it/)
