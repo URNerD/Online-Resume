@@ -31,7 +31,7 @@ making sense of it.
 
 * [A Case for Responsive Résumés]
 (http://alistapart.com/article/a-case-for-responsive-resumes)
-* (http://www.simonefortunini.it/)[Simone Fortunini - Online Marketing Manager]
-and [http://www.phildub.com](Philippe Dubost, Web Product Manager)
+* [Simone Fortunini - Online Marketing Manager](http://www.simonefortunini.it/)
+and [Philippe Dubost, Web Product Manager](http://www.phildub.com)
 – these two resumes do a wonderful job of pushing the envelope by
 using the Web to create a more engaging resume than would be possible on paper.
