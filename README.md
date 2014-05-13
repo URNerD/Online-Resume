@@ -23,6 +23,7 @@ but relatvely easy to follow example of a simple resume.
 1. Once you've updated it to reflect you, commit your changes to your repository.
 1. Test in the browser to see if you have any glitches (and fix and commit them).
 2. Modify the CSS to "make it yours" – change fonts, use colors, etc. Make small changes first, so you get a feel for what you are doing.
+3. When you've got something you like, link it to your GitHub web site.
 
 ## Non-computer Days
 
