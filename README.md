@@ -4,7 +4,8 @@ A resume is an essential tool for the job hunter. For web developers it makes se
 to create an online resume – it is a great way to show off your skills and design
 sense and it makes you visible 24/7.
 
-Your final product for this project will be an online resume for yourself.
+Your final product for this project will be an online resume for yourself. Link the resume to your GitHub
+web site.
 
 ## Computer Days
 
